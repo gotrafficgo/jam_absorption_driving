@@ -17,8 +17,35 @@ The results show that the proposed JAD strategy successfully suppresses the prop
 **[Significance]** This paper is expected to take a significant step toward making JAD practical, advancing it from a theoretical concept to a feasible and implementable strategy.
 
 
-<img src="fig/Figure_2.png" width="40%" style="display: block; margin: auto;" />
+<img src="fig/Figure_2.png" width="45%">
 
 **[Video] Police-Car Swerving on Freeway, https://m.youtube.com/watch?v=lJVYIVtsLso**
 
-**[Preprint] https://arxiv.org/abs/2507.09648**
+
+## Code
+b_1_simu_base.py
+b_2_simu_base_plot_tx.py
+<img src="fig/Figure_11.png" width="45%">
+
+c_1_simu_stability.py
+c_2_simu_stability_plot_tx.py
+<img src="fig/Figure_12.png" width="45%">
+
+d_1_simu_jad.py
+
+d_4_simu_jad_plot_detector.py
+<img src="fig/Figure_13.png" width="45%">
+
+d_5_simu_jad_plot_headway.py
+<img src="fig/Figure_14.png" width="45%">
+
+d_2_simu_jad_plot_tx.py
+<img src="fig/Figure_15.png" width="45%">
+
+d_3_simu_jad_plot_tx_failed.py
+<img src="fig/Figure_16.png" width="45%">
+
+
+
+## Preprint
+https://arxiv.org/abs/2507.09648**
