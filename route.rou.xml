@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<routes>
+      
+      <vType id="car"
+            carFollowModel="Krauss"
+            accel="2.0"
+            decel="4.5"
+            tau="1.2"
+            tauSigma="1.2"
+            accelSigma="0.95"
+            decelSigma="0.95"
+            sigma="0.95"
+            length="5"
+            minGap="1.5"
+            maxSpeed="25"
+            speedFactor="1.0"
+            speedDev="0.0" />
+
+   <route id="route0" edges="edge0"/>
+
+   <vehicle id="veh0"
+            type="car"
+            route="route0"
+            depart="0"
+            departSpeed="20"/>
+
+   <flow id="flow1"
+         type="car"
+         route="route0"
+         begin="1"
+         end="1600"
+         period="1.5"
+         departSpeed="15"
+         departProb="0.01"/>
+</routes>
+
+
+
