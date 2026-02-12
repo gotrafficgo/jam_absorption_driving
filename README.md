@@ -78,7 +78,7 @@ This paper is expected to take a significant step toward making JAD practical, *
 
 
 ## Preprint
-[https://arxiv.org/abs/2504.11372](https://arxiv.org/abs/2504.11372)
+[https://arxiv.org/abs/2602.10234](https://arxiv.org/abs/2602.10234)
 
 
 <br>
