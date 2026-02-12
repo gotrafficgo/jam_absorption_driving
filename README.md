@@ -4,6 +4,10 @@
 **[Background]** 
 Stop-and-go waves, as a major form of freeway traffic congestion, cause severe and long-lasting adverse effects, including reduced traffic efficiency, increased driving risks, and higher vehicle emissions.
 
+<img src="fig/swerving.png" width="100%">
+
+[Video] Police-Car Swerving on Freeway, https://www.youtube.com/watch?v=_IvmWaSDorg
+
 **[JAD Strategy]** 
 Amongst the highway traffic management strategies, jam-absorption driving (JAD), in which a dedicated vehicle performs "slow-in" and "fast-out" maneuvers before being captured by a stop-and-go wave, has been proposed as a potential method for preventing the propagation of such waves. 
 
@@ -21,23 +25,6 @@ This paper is expected to take a significant step toward making JAD practical, *
 
 
 <br>
-
-
-## Real-World Observation
-
-<img src="fig/swerving.png" width="100%">
-
-[Video] Police-Car Swerving on Freeway, https://www.youtube.com/watch?v=_IvmWaSDorg
-
-[Video] Police-Car Swerving on Freeway, https://www.youtube.com/watch?v=_IvmWaSDorg
-
-[Video] Police-Car Swerving on Freeway, https://www.youtube.com/watch?v=_IvmWaSDorg
-
-[Video] Police-Car Swerving on Freeway, https://www.youtube.com/watch?v=_IvmWaSDorg
-
-
-<br>
- 
 
 
 ## Code
