@@ -4,8 +4,6 @@
 **[Background]** 
 Stop-and-go waves, as a major form of freeway traffic congestion, cause severe and long-lasting adverse effects, including reduced traffic efficiency, increased driving risks, and higher vehicle emissions.
 
-<img src="fig/Figure_1.png" width="70%">
-
 **[JAD Strategy]** 
 Amongst the highway traffic management strategies, jam-absorption driving (JAD), in which a dedicated vehicle performs "slow-in" and "fast-out" maneuvers before being captured by a stop-and-go wave, has been proposed as a potential method for preventing the propagation of such waves. 
 
@@ -13,7 +11,7 @@ Amongst the highway traffic management strategies, jam-absorption driving (JAD),
 However, most existing JAD strategies remain impractical mainly due to the lack of discussion regarding implementation vehicles and operational conditions.
 
 **[Contribution]**
-- Inspired by real-world observations of police-car swerving behavior, this paper first introduces a *Single-Vehicle Two-Detector Jam-Absorption Driving (SVDD-JAD)* problem, and then proposes a practical JAD strategy that transforms such behavior into a maneuver capable of suppressing the propagation of an isolated stop-and-go wave.  
+- Inspired by real-world observations of police-car swerving behavior, this paper first introduces a *Single-Vehicle Double-Detector Jam-Absorption Driving (SD-JAD)* problem, and then proposes a practical JAD strategy that transforms such behavior into a maneuver capable of suppressing the propagation of an isolated stop-and-go wave.  
 - Five key parameters that significantly affect the proposed strategy, namely, *JAD speed*, *inflow traffic speed*, *wave width*, *wave speed*, and *in-wave speed*, are identified and systematically analyzed. 
 - Using a SUMO-based simulation as an illustrative example, we further demonstrate how these parameters can be measured in practice with two stationary roadside traffic detectors. 
 The results show that the proposed JAD strategy successfully suppresses the propagation of a stop-and-go wave, without triggering a secondary wave.
@@ -114,6 +112,8 @@ If you find this work useful, please consider citing our paper:
   **A Review of Stop-and-Go Traffic Wave Suppression Strategies: Variable Speed Limit vs. Jam-Absorption Driving**  
   IEEE Transactions on Intelligent Transportation Systems, Accepted, 2026.  
   [Paper](https://arxiv.org/abs/2504.11372) | DOI: 10.1109/TITS.2026.3658644  
+
+<img src="fig/Figure_1.png" width="70%">
 
 - *He, Z., Zheng, L., Song, L., Zhu, N.*  
   **A Jam-Absorption Driving Strategy for Mitigating Traffic Oscillations**  
