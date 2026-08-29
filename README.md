@@ -1,4 +1,4 @@
-## Transforming Policy-Car Swerving for Mitigating Stop-and-Go Traffic Waves: A Practical Jam-Absorption Driving Strategy
+## Transforming Police-Car Swerving for Mitigating Stop-and-Go Traffic Waves: A Practical Jam-Absorption Driving Strategy
 
 
 **[Background]** 
