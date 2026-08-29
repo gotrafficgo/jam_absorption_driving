@@ -1,5 +1,4 @@
-## Transforming Police-Car Swerving for Mitigating Stop-and-Go Traffic Waves: A Practical Jam-Absorption Driving Strategy
-
+## Transforming Police-Car Swerving for Mitigating Isolated Stop-and-Go Traffic Waves: A Practice-Oriented Jam-Absorption Driving Strategy
 
 **[Background]** 
 Stop-and-go waves, as a major form of freeway traffic congestion, cause severe and long-lasting adverse effects, including reduced traffic efficiency, increased driving risks, and higher vehicle emissions.
@@ -89,7 +88,7 @@ If you find this work useful, please consider citing our paper:
 
 ```
 @article{he2026jad,
-  title={Transforming Police-Car Swerving for Mitigating Stop-and-Go Traffic Waves: A Practice-Oriented Jam-Absorption Driving Strategy},
+  title={Transforming Police-Car Swerving for Mitigating Isolated Stop-and-Go Traffic Waves: A Practice-Oriented Jam-Absorption Driving Strategy},
   author={He, Zhengbing},
   journal={arXiv preprint},
   year={2026},
