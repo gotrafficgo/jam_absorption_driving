@@ -19,6 +19,8 @@ The results show that the proposed JAD strategy successfully suppresses the prop
 **[Significance]** 
 This paper is expected to take a significant step toward making JAD practical, *advancing it from a theoretical concept to a feasible and implementable strategy*.
 
+**[Interactive Simulation]** https://www.gotrafficgo.com/project/dedicated-vehicle-dispatch/
+
 <br>
 
 <br>
@@ -27,8 +29,6 @@ This paper is expected to take a significant step toward making JAD practical, *
 <img src="fig/swerving.png" width="100%">
 
 *Police-car swerving at high speed on a freeway, California, USA. It shows that the police car was swerving at a high speed of about 70 km/h (44 mph) for roughly one minute. In the end, it caused the inflow to join a queue at a relatively low speed, implying a possible task aimed at slowing down traffic arrival.*
-
-**[Interactive Simulation]** https://www.gotrafficgo.com/project/dedicated-vehicle-dispatch/
 
 [Video] Police-Car Swerving on Freeway, https://www.youtube.com/watch?v=_IvmWaSDorg
 
