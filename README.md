@@ -1,3 +1,5 @@
+![Video](video/Interactive Simulation - Police Car Swerving JAD.gif)
+
 ## Transforming Police-Car Swerving for Mitigating Isolated Stop-and-Go Traffic Waves: A Practice-Oriented Jam-Absorption Driving Strategy
 
 **[Background]** 
